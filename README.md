@@ -15,9 +15,6 @@ Routes:
 |Method  |Endpoint  |  
 |--|--|
 |Get  |/  |  
-|Get  |/hello  |  
-|Get  |/time  |  
-|Get  | /status | 
 |Get  |/tasks  |  
 |Post  |/tasks  |  
 |Put  |/tasks/:id  |  
