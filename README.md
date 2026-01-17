@@ -29,20 +29,17 @@ Routes:
 
 `npm start`  
 
+
+## Example Front End
+![TaskManager](https://github.com/helpicantchoose/web_technologies_2_assignment_3/blob/main/images/example.png?raw=true)
+## Example MongoDb Document
+![TaskManager](https://github.com/helpicantchoose/web_technologies_2_assignment_3/blob/main/images/Mongodb.png?raw=true)
 ## Example Postman requests
-### Get /
-![Server is running](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/server%20is%20running.png?raw=true)
-### Get /hello
-![hello](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/hello.png?raw=true)
-### Get /time
-![Time](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/time.png?raw=true)
-### Get /status
-![Ok](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/status.png?raw=true)
 ### Get /tasks
-![Tasks](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/tasks%20get.png?raw=true)
+![Tasks](https://github.com/helpicantchoose/web_technologies_2_assignment_3/blob/main/images/get.png?raw=true)
 ### Post /tasks
-![post](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/task%20post.png?raw=true)
+![post](https://github.com/helpicantchoose/web_technologies_2_assignment_3/blob/main/images/post.png?raw=true)
 ### Put /tasks/:id
-![put](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/task%20put.png?raw=true)
+![put](https://github.com/helpicantchoose/web_technologies_2_assignment_3/blob/main/images/put.png?raw=true)
 ### Delete /tasks/:id
-![delete](https://github.com/helpicantchoose/web_technologies_2_assignment_1/blob/main/images/task%20delete.png?raw=true)
+![delete](https://github.com/helpicantchoose/web_technologies_2_assignment_3/blob/main/images/delete.png?raw=true)
