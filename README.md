@@ -21,9 +21,10 @@ Routes:
 |Delete  |/tasks/:id  |  
 
 ## Requirements
-This project uses environment variables for security. You must create a .env file locally.
+This project uses environment variables for security. You must create a .env file with MongoDB connections string locally.
+
 Example:
-"MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/finalProjectDB"
+`"MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/finalProjectDB"`
 
 ## How to install dependencies
 
