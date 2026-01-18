@@ -24,7 +24,7 @@ Routes:
 This project uses environment variables for security. You must create a .env file with MongoDB connections string locally.
 
 Example:
-`"MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/finalProjectDB"`
+`"MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/name"`
 
 ## How to install dependencies
 
